@@ -1,1 +1,2 @@
 # Explore-neighborhood-in-NYC
+We intend to help people and the government of New York City to take more advantages from the current government open data sets. From the abundant raw data, we would like to present interesting and important findings which can help people know more and better about what a neighborhood is like and what is going on around it. In this case, we take a focus on the districts of Manhattan.  
